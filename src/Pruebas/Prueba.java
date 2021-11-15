@@ -10,6 +10,6 @@ package Pruebas;
  * @author viane
  */
 public class Prueba {
-    //ghjjjj
+    //ghjj
     
 }
